@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\win\window\window\obj\Debug\window.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\win\window\window\obj\Debug\window.Form1.resources
+C:\Users\Admin\Desktop\win\window\window\obj\Debug\window.Properties.Resources.resources
+C:\Users\Admin\Desktop\win\window\window\obj\Debug\window.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\win\window\window\bin\Debug\window.exe.config
+C:\Users\Admin\Desktop\win\window\window\bin\Debug\window.exe
+C:\Users\Admin\Desktop\win\window\window\bin\Debug\window.pdb
+C:\Users\Admin\Desktop\win\window\window\obj\Debug\window.exe
+C:\Users\Admin\Desktop\win\window\window\obj\Debug\window.pdb
